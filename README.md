@@ -7,7 +7,7 @@ Une compte google Colab pro vous sera fourni pour 1 mois. Vous pourrez l'utilise
 - [Voici un lien sympa pour apprendre à utiliser pytorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)
 
 
-Les instructions du TP sont contenu dans le notebook.ipynb, a ouvrir dans Google Colab.
+Les instructions du TP sont contenu dans le notebook.ipynb, à ouvrir dans Google Colab.
 
 
 ### [Optionel] : Si vous avez un ordinateur avec un carte graphique nvidia, pour installer CUDA :
